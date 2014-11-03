@@ -1,0 +1,28 @@
+//∂¡»Îstop¥ 
+				Map<String,Integer> stopword = new HashMap<String,Integer>();  	// ¥Ê∑≈stopwords
+			
+					FileInputStream fis = new FileInputStream("Data\\stop_little.txt");
+					
+						BufferedReader reader;
+						try {
+							reader = new BufferedReader(new InputStreamReader(fis,"GBK"));
+						
+					
+					String line=null;
+					try {
+						while((line = reader.readLine())!= null){
+							String stop = line;
+						//	System.out.println(stop);
+							if(stopword.get(stop)==null)
+							{
+								stopword.put(stop,1);
+							}
+						}
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+						} catch (UnsupportedEncodingException e1) {
+							// TODO Auto-generated catch block
+							e1.printStackTrace();
+						}
