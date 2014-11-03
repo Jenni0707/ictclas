@@ -1,0 +1,53 @@
+good
+
+23991/m  oriSenti:/nx  neg/nx  相片/n 拍/v 的/u 及/c 烂/a ，/w 虽然/c 我/r 的/u 照相/vn 水平/n 一般/a ，/w 但是/c 我/r 用/p 别人/r 的/u 相机/n （/w 不管/c 是/v 什么/r 牌子/n 的/u ）/w 从来/d 都/d 没有/d 拍/v 出/v 如此/r 糟糕/a 的/b 相片/n 。/w 
+23992/m  oriSenti:/nx  pos/nx  才/d 买/v 的/u 机子/n ,/w 手感/n 很/d 好/a ,/w PP/nx 照/vd 出/v 来/v 效果/n 也/d 很/d 好/a ,/w 功能/n 又/d 多/a 
+23995/m  oriSenti:/nx  neg/nx  我/r 刚/d 买/v 了/u 一个/m ，/w 拍照/v 时/ng 突然/ad 发生/v 死/v 机/ng 现象/n ，/w 取/v 下/f 电池/n 才/d 能/v 关机/v 。/w 嗨/e ！/w 不知/v 是/v 什么/r 原因/n 
+23996/m  oriSenti:/nx  pos/nx  1/m 外观/n 时尚/n 精致/a 小巧/a ,/w 流线型/b 的/u 设计/vn ，/w 让/v 人/n 爱不释手/i .2/m 预/vg 设/v 了/u 多种/m 拍摄/v 模式/n ,/w 方便/a 新手/n 直接/ad 选择/v 使用/v .3/m 安全/an 闪光灯/n 功能/n 可以/v 在/p 室内/s 光线/n 较/d 暗/ag 时/ng ，/w 不/d 使用/v 闪光灯/n 的/u 前提/n 下/f ，/w 拍摄/v 出/v 较/d 好/a 的/u 影像/n ./w 在/p 一定/b 程度/n 上/f 可以/v 防止/v 因/p 拍摄/v 环境/n 光线/n 不足/an 而/c 出现/v 图像/n 不/d 清晰/a 的/u 现象/n .4/m 携带/v 方便/an ,/w 开机/v 速度/n 快/a ,/w 操作/v 简单/a ,/w 容易/ad 上手/v ,/w 手感/n 也/c 不错/a 
+24014/m  oriSenti:/nx  neg/nx  相机/n 没/v 电/n 时/ng ，/w 镜头/n 缩/v 不/d 回去/v ，/w 录像/n 时/ng 所/u 占/v 的/u 空间/n 非常/d 大/a ，/w 一个/m G/nx 的/u 卡/n ，/w 录/v 最佳/z 效果/n 时/ng ，/w 才/d 能/v 录/v 几/m 分钟/q ，/w 狂/dg 晕/v ，/w 且/c 声音/n 感觉/n 不/d 太/d 连续/a ，/w 且/c 录/v 出/v 的/u 声音/n 非常/d 小/a 痛苦/an 中/f ，/w 不/d 知道/v 是/v 我/r 的/u 相机/n 问题/n 吗/y 
+24020/m  oriSenti:/nx  neg/nx  用/v 的/u 是/v 普通/a 5/m 号/q 电/n ，/w 电池/n 消耗/vn 很/d 大/a ，/w 不知/v 是/v 电池/n 问题/n 还/d 是/v 相机/n 耗电/v 多/a ，/w 真/a 的/u 要/v 准备/v 很多/m 电池/n 才/d 行/v 。/w 
+24025/m  oriSenti:/nx  neg/nx  用/v 了/u 还/d 不/d 到/v 一个/m 月/n ,/w 电池/n 有/v 问题/n 了/y ,/w 充/nr 完/v 电/n 用/v 不/d 了/u 几/m 分钟/q 自动/d 关机/v ,/w 镜头/n 还/d 收/v 不/d 回来/v ./w 谁/r 能/v 告诉/v 我/r 电池/n 保修/v 吗/y 
+24027/m  oriSenti:/nx  pos/nx  图片/n 清晰/a ，/w 功能/n 强大/a ，/w 很/d 容易/ad 上/v 手/n 。/w 适合/v 家庭/n 用户/n 。/w 500万/m 像/v 素/dg 足够/v 了/y ，/w 尤其/d 是/v 不/d 限/v 时/ng 摄像/v ，/w 相当/d 于/p 买/v 个/q dv/nx 啊/e ！/w 
+24029/m  oriSenti:/nx  neg/nx  用/p 闪光灯/n 时/ng ，/w 耗电量/n 太/a 大/a ，/w 特别/d 是/v 要/v 先/d 闪/v 一下/m 以/p 消除/v 红/a 眼/n ，/w 不知/v 在/p 自动/b 档/n 时/ng 可否/v 关闭/v ，/w 另/r 在/p 1/m 米/q 左右/m 用/p 闪光灯/n 照/vd 出来/v 的/u 照片/n 根本/d 不/d 能/v 看/v ，/w 在/p 点/t 聚焦/v 不准/v （/w 在/p 自动/b 档/n 时/ng ）/w 
+24030/m  oriSenti:/nx  pos/nx  看/v 着/u 做功/n 还/c 行/a 。/w 
+24034/m  oriSenti:/nx  neg/nx  耗电/v 太/d 厉害/a ，/w 我/r 用/v 南孚/nz 普通/a 碱性/n 电池/n 照/d 了/u 不/a 到/c 二十/m 张/j 照片/n 竟然/d 电量/n 不足/a 引起/v 死/a 机/j 。/w 看样子/v 死/v 机真/nr 是/v 三/m 星/n 的/u 通病/n 。/w 
+24035/m  oriSenti:/nx  pos/nx  屏幕/n 大/a ，/w 像/p 素高/nr ！/w 
+24045/m  oriSenti:/nx  neg/nx  郑州/ns 要/v 1780/m 才/d 能/v 买/v 到/v 比/p 其它/r 地方/n 要/v 贵/j 不少/m 呀/o 为/v 啥/r 
+24046/m  oriSenti:/nx  pos/nx  性/ng 价/n 比较/d 好/a ,/w 液晶/n 屏/ng 较/a 大/a ./w 
+24050/m  oriSenti:/nx  neg/nx  似乎/d 像/v 素/dg 不够/a ，/w 发/v 虚/ag 
+24051/m  oriSenti:/nx  pos/nx  屏幕/n 比较/d 大/a ，/w 同/p 型/k 机/ng 中/f 功能/n 算/v 比较/d 多/a ./w 色彩/n 还原/v 度/q 中/f 上/m 性/ng 价/n 比较/d 高/a ，/w 满足/v 家庭/n 使用/v ./w 配送/v 套/q 件/q 比较/d 齐全/a 
+24063/m  oriSenti:/nx  neg/nx  采用/v 全/a 塑/ng 材质/n ，/w 手感/n 偏/a 轻/a ；/w 在/p 室外/s 光线/n 明亮/a 的/u 环境/n ，/w 屏幕/n 的/u 显示/vn 效果/n 下降/v 明显/a ；/w M/nx 档/ng 调整/v 过程/n 中/f 无/v 测/v 光/d 显示/v ；/w 手动/b 光圈/n 调整/v 范围/n 太/a 小/a ，/w 只有/c 两/m 档/q 光圈/n 调整/v ，/w 在/p 实际/n 使用/v 中/f 还/d 是/v 存在/v 很/d 大/a 限制/vn 。/w 
+24064/m  oriSenti:/nx  neg/nx  低/a 光照/n 条件/n 下/f ，/w 不/d 开/v 闪光灯/n ，/w 用/p 自动/b 模式/n 手持/v 照相/v 非常/b 模糊/a 。/w 我/r 同样/b 条件/n 下/f 用/v SONY/nx 的/u ，/w 找/v 出来/v 就/d 比/p S500/nx 好/a ，/w SONY/nx 的/u 是/v P52/nx 的/u 。/w 同时/c 该/r 产品/n 太/d 耗电/v ，/w 用/p 金/b 霸王/n 碱性/n 电池/n 没用/a 多/a 长/a 时间/n 就/c 没/d 电/j 了/u ，/w 电量/n 显示/v 一/m 会/v 有/v 电/n ，/w 一/m 拍照/v 就/d 没/v 电/n 了/y ，/w 按/p 啥/r 键/ng 都/d 没/d 反映/v ，/w 镜头/n 也/d 没有/d 收回/v ，/w 让/v 人/n 感觉/n 好/a 象/ng 相机/n 坏/a 了/y 。/w 后来/t 换/v 了/u 电池/n 又/d 好/a 了/y 。/w 
+24065/m  oriSenti:/nx  pos/nx  小巧/a 便宜/a ，/w 适合/v 家/q 用/v 
+24066/m  oriSenti:/nx  neg/nx  太/d 耗电/v 了/y ，/w 拍/v 不/d 了/u 30张/nr 就/d 没/v 电/n 。/w 我/r 是/v 新手/n ，/w 不知/v 其它/r 机型/n 也/d 是/v 如此/r ？/w 
+24067/m  oriSenti:/nx  pos/nx  还/d 算/v 小巧/a ,/w 手感/n 不错/a ./w 该/p 有的/r 功能/n 都/d 有/m ./w 画面/n 将就/v ./w 
+24068/m  oriSenti:/nx  pos/nx  总的来说/c 性能/n 还/d 不错/a ,/w 对/p 与/p 入门/v 级/q 的/u 来说/u ,/w 家庭/n 用/v 还/d 可以/v ./w 是/v 一/m 款/q 性/ng 价/n 比/p 高/a 的/u 相机/n ./w 
+24080/m  oriSenti:/nx  neg/nx  说/v 得/u 是/v 全/d 装/v ＳＤ卡/nr 没/v 封条/n 根本/d 无法/v 试/v 明/ag 以前/f 无/v 人/n 用/v 过/u ，/w 现在/t 在/p 很/d 频繁/a 的/u 报/n ＳＤ/nx 卡/j 错误/n ．/w 
+24081/m  oriSenti:/nx  pos/nx  昨天/t 在/p 武汉/ns 国/n 美/j 买/v 的/u `/nx 相机/n +/w 包/v +/w 1G/nx 卡+1/nr 电池/n =/w 2099/m ,/w 刚/d 买/v 就/d 有/v 烟火/n 晚会/n ,/w 就/d 试/v 了/u 下/v 效果/n ./w 效果/n 一般/a ,/w 今天/t 按/p 到/v 说明书/n 上/f 的的/n 研究/v 了/u 一下/m `/nx 拍/v 出来/v 的/u 效果/n 好/a 多/a 了/y ,/w 呵呵/a  还/d 是/v 自己/r 水平/n 问题/n ./w 总之/c 家用/b 足够/vn `/nx 
+24084/m  oriSenti:/nx  neg/nx  洗/v 出来/v 照片/n 很/d 白/a ，/w 夜景/n 效果/n 不好/a ，/w 看来/v 以后/f 卖/v 东西/n ，/w 不然/c 光/d 看/v 外表/n 了/y ．/w 
+24085/m  oriSenti:/nx  pos/nx  功能/n 多/a ，/w 外形/n 不错/a 有/v 质感/n ，/w 手感/n 好/a 。/w 
+24093/m  oriSenti:/nx  neg/nx  没/d 防/v 抖/v ，/w 太/d 遗憾/a ！/w 速度/n 太/d 慢/a ，/w 遇/v 上/f 紧急/a 情况/n 要/v 抓/v 拍/v ，/w 难免/vd 延误/v 时机/n 
+24094/m  oriSenti:/nx  pos/nx  太/d 多/a ，/w 超强/nr 
+24100/m  oriSenti:/nx  neg/nx  紫/a 边/k 太/d 严重/a 。/w 画质/n 太/d 差/a ，/w 价格/n 超高/b 。/w 
+24102/m  oriSenti:/nx  neg/nx  没有/d 防/v 抖/v 
+24103/m  oriSenti:/nx  pos/nx  从/p 外表/n 和/c 功能/n 来/f 看/v 目前/t 算是/v 顶级/b 的/u 准/h 专业/n 机型/n 了/y ./w 
+24104/m  oriSenti:/nx  neg/nx  不/d 支持/v 防/v 抖/v ，/w 大/d 变/v 焦/ng 大/a 屏幕/n 等/u 皆/d 失去/v 意义/n 。/w 
+24125/m  oriSenti:/nx  pos/nx  700W/nx 像/v 素/ag ，/w 防/v 抖动/vn ，/w MP3/nx 、/w 电影/n 、/w 电子/n 书/n ，/w 功能/n 比较/d 齐全/a ，/w 听/v MP3/nx 的/u 音色/n 还/d 算/v 不错/a ，/w 附件/n 里/f 的/b 那/c 副/b 耳机/n 蛮/a 灵./nr 
+24126/m  oriSenti:/nx  pos/nx  本来/d 是/v 打算/v 好/a 买/v i6/nx 的/u 结果/n 被/p 这/r 款/q 外观/n 所/u 吸引/v ，/w 功能/n 方面/n 比/p i6/nx 强/a 价格/n 也/d 只/d 差/a 了/y 200/m 左右/m  于是/c 就/d 拿/v 了/u 这/r 款/ng ，/w 二/m 块/q 原装/b 电池/n +/w 1Gsd/nx 卡/ng +/w 读/v 卡/n 器/k +/w 三脚架/n (/w 小/a )/w ＝/w 2488/m 
+24127/m  oriSenti:/nx  neg/nx  开机/v 几/m 秒/q 就/d 严重/ad 发热/v .../m 图片/n 色彩/n 暗淡/a ,/w 降/v 抖动/v 能/v 不/d 起/v 效果/n ..../m 
+24128/m  oriSenti:/nx  pos/nx  第一/m 眼/q 就/d 看中/v 它/r 的/u 外/f 型/k 了/y ，/w 所以/c 就/d 买/v 它/r 
+24133/m  oriSenti:/nx  neg/nx  防/v 抖/v 极/d 差/a ，/w 偏/d 色/ng ，/w 几乎/d 每/r 次要/b 拍/v 5/m 、/w 6/m 张/q 才/d 能/v 选/vd 出/v 可用/a 的/u 照片/n 。/w 
+24135/m  oriSenti:/nx  pos/nx  轻薄/a 时尚/n ，/w 外观/n 无疑/d 是/v 三/m 星/n 的/u 强项/n 。/w 丰富/a 的/u 多媒体/n 功能/n ！/w 各种/r 功能/n 键/ng 的/u 布局/n 比较/d 合理/a ，/w 操作/v 起来/v 很/d 方便/a 、/w 舒服/an ！/w 用/p 熟练/a 以后/f 拍摄/v 的/u 效果/n 还是/c 可以/v 接受/v 的/u （/w 本人/r 用/v 的/u 是/v 三星/nz i6/nx ）/w 
+24136/m  oriSenti:/nx  neg/nx  1/m 、/w 机身/n 发热/v 太/d 明显/a ；/w 2/m 、/w 夜间/t 拍摄/v 效果/n 太/d 差/a ；/w 3/m 、/w 部分/m 模式/n 下/f 的/u 拍摄/vn 等待/vn 时间/n 太/d 长/a 。/w 
+24137/m  oriSenti:/nx  pos/nx  外观/n 漂亮/a .施奈德/nr 镜头/n ./w 感光度/n 达/j 1000/m 有/m 录像/n 变/a 焦/a 噪音/n 最/d 小/a 化/j 功能/n ./w 可/c 放电影/vn ,/w 可/v 听/v MP3./nx 可/v 看/v 文本/n ./w 带/v 立体/b 扬声器/n ./m 降/v 抖/v 功能/n (/w ASR/nx )/w 
+24138/m  oriSenti:/nx  neg/nx  没有/v 内涵/n 2.5/m 的/u ccd700/nx 多万/nr 像/v 素/dg 可以/v 想象/v 照片/n 质量/n 有/v 多么/d 糟糕/a 
+24144/m  oriSenti:/nx  neg/nx  差/a ，/w 产品/n 不/d 成熟/a ！/w ！/w ！/w 
+24147/m  oriSenti:/nx  neg/nx  说/v ，/w 毛/nr 边/k 现象/n 太/d 明显/a ，/w 景深/n 较/a 差/a ．/w 在/c 清晰度/n 上/f 比/j 富士/nz 、/w 索尼/nz 都/d 要/v 逊色/an 。/w 
+24148/m  oriSenti:/nx  neg/nx  防/v 抖/v 的/u 朋友/n 就/d 不/d 要/v 买/v 了/y ，/w 基本上/d 可以/v 说/v 没有/d 防/v 抖/v ，/w 多/m 了/u 个/q 按钮/n 还/d 是/v 个/q 麻烦/an ，/w 第一/m 次/q 照/v 的/u 是/v 我/r 的/u 角/n 丫/ng 子/ng ，/w 哈哈/e ！/w 缺/v 点/t ：/w 动态/n 照片/n 不/d 清楚/a ，/w 还有/v mp4/nx 格式/n 不/d 好转/v ．/w 缺/v 点/t ：/w 打/v 死/v 我我/a 也/d 不/d 会/v 再/d 买/v 三/m 星/n 的/u 任何/r 东西/n 了/y ，/w 除非/c 三星/nz 升级/vn 为/v 四/m 星/n 或/c 五/m 星/n ，/w 还/d 得/u 来/v 求/v 我/r ，/w 还/d 得/u 容/v 我/r 三思/nr ，/w 我/r 买/v 三星/nz I5/nx 一/m 年/q 几乎/d 没用/v ，/w 一/m 用/v 就/d 有/v 问题/n ，/w 维修/v 俩/m 次/q ，/w 每次/r 修/v 过/u 都/d 有/v 其他/r 问题/n 出现/v ，/w 就/d 是/v 四/m 次/q 了/y ，/w 跑/v 了/u 不/d 知/v 多少/r 次/q 了/y ，/w 这次/r 经过/p 再/d 网上/s 查/v 中国/ns 消费/vn 网/n ，/w 保内修/nr 拿/v 俩/m 次/q 还/d 不能/v 正常/ad 使用/v 可/v 退/v 或/c 换/v ，/w 经过/p 我/r 几/m 天/q 的/u 软磨/v 硬/a 磨/n 甚至/c 要挟/v 不/a 合理/a 我/r 就/c 不/a 让/p 你们/r 下/f 班/n 2680/m 买/v 的/b 只/c 退/j 1500/m ，/w 唉/e ，/w 心/n 在/p 滴/v 血/n ，/w 任/v 倒霉/a 吧/y 特/d 提醒/v 大家/r 千万/m 别/d 买/v 三/m 星/n 的/u 东西/n ，/w 否则/c 后患无穷/i 缺/n 点/t ：/w 有/v 横/ag 纹/ng ，/w 暴光/v 不/a 正确/a ，/w 买/v 来/v 2月/t 就/d 返/v 厂/n ，/w 返/v 厂/n 时间/n 长/a 。/w 缺/v 点/t ：/w 买/v 之前/f 在/p 这个/r 论坛/n 看/v 了/u 很/d 久/a 后/f 才/d 买/v 这个/r 相机/n 的/u 。/w 缺点/n 心里/s 早/ad 有/v 底/f 。/w 感光度/n 差/a ，/w 导致/v 曝光/v 时间/n 延长/v 后/f 画面/n 很/d 糊/a 。/w 开/v 了/u 闪光灯/n 又/d 会/v 颜色/n 失真/vn ，/w 唯一/b 的/u 方法/n 就/d 是/v 开/v 防/v 抖/v 。/w 防/v 的/u 不/d 明显/a ，/w 但/c 用/v 了/u 其他/r 牌子/n 几/m 款/q 相机/n （/w 包括/v SONY/nx 和/c 富士/nz ）/w 发现/v 现在/t 的/u 防/v 抖/v 都/d 不/d 咋/r 的/u 。/w 缺/v 点/t ：/w 1/m 当/bg 机身/n 内/f 没/d 有/v 电池/n 时/ng ，/w 连接/v 直流电/n 源/n 不能/d 启动/v 相机/n ；/w  2/m 防/ng 抖/v 模式/n 下/f 无/v 曝光/v 补偿/vn 选项/n ；/w  3/m 防/ng 抖/v 模式/n 下/f 无法/v 开启/vn 闪光灯/n ；/w  4/m 视频/n 文件/n 必须/d 经过/p 相机/n 附/v 送/v 的/u 软件/n 转换/v 为/v 专用/b 格式/n 才/d 能/v 在/p i6/nx 上/f 播放/v ，/w 通过/p 电脑/n 软件/n 转换/v MP4/nx 格式/n 很/d 费时/a 。/w 缺/v 点/t ：/w 电池/n 不/d 耐用/a ,/w 黑色/n 有/v 掉/v 漆/v 现象/n ,/w 防/v 抖/v 功能/n 还/d 能/v 加强/v 就/d 好/a 了/y ,/w 各地/r 价格/n 相差/v 太/d 悬殊/a !/w 缺/v 点/t ：/w 用/v 了/u 不/d 到/v 三/m 个/q 月/n （/w 今年/t 五一/m 买/v 的/u ）/w 成像/vn 出现/v 严重/a 的/u 横/ag 条纹/n ！/w ！/w 要/v 求索/v 陪/v ！/w 缺/v 点/t ：/w 就/d 是/v MP3\MP4/nx 功能/n 基本/ad 用不着/l ,/w 用/p 数码/b 相机/n 听/v MP3/nx 确实/ad .../m 用/ng 闪光/n 等/a 照相/v 照片/n 上/f 总是/d 有/m 白色/n 的/b 光圈/n ,/w 在/p 一个/m 景点/n 反复/d 照/v 了/u 几/m 张/q ,/w 白色/n 光/d 点/t 有/v 时/ng 多/m 有时/d 少/a ,/w 大小/n 不一/v ,/w 这/r 点/t 确实/ad 比较/v 遗憾/an ./w 电池/n 也/d 不够/a 强劲/an ,/w 好/a 在/p 有/v 两/m 块/q ./w 
+24149/m  oriSenti:/nx  pos/nx  性/ng 价/n 比/p 很/d 高/a ，/w 而且/c MP3/nx 的/u 音质/n 很/d 好/a  弯/v 型/k 设计/v  那/r 着/u 很/d 舒服/a  最/d 好/a 的/u 是/v 可以/v 一边/d 听/v 歌/n  一边/d 照相/v  我/r 才/d 发现/v 的/u   哈哈/o 
+24150/m  oriSenti:/nx  pos/nx  2300/m 在/p 济南/ns 买/v 的/u ，/w 双/m 电/n 双/m 充/v ，/w 1GMMC/nx ，/w +20/m  三脚架/n ！/w 刚/d 买/v ，/w 希望/v 好运/n ！/w 
+24151/m  oriSenti:/nx  pos/nx  比较/d 小巧/a 。/w 开机/v 快/a 。/w 存储/vn 照片/n 快/a 。/w 微/ag 距/vg 很/d 棒/a ，/w 尽管/c 没/v 和/c 其他/r 的/u 比/n 过/u 。/w 性/ng 价/n 比/p 蛮/d 高/a 的/u 。/w 
+24152/m  oriSenti:/nx  neg/nx  ，/w 暴光/v 不/a 正确/a ，/w 买/v 来/v 2月/t 就/d 返/v 厂/n ，/w 返/v 厂/n 时间/n 长/a 。/w 
+24153/m  oriSenti:/nx  pos/nx  外观/n 漂亮/a ,/w 金属/n 外壳/n 质感/n 好/a ,/w 610万/m 像/v 素/dg 家用/n 足够/v 了/y ,/w 拍摄/v 效果/n 不错/a ,/w 功能/n 强大/a !/w 
+24154/m  oriSenti:/nx  pos/nx  外观/n 不错/a ～/w 功能/n 比较/d 多/a 
+24161/m  oriSenti:/nx  neg/nx  夜间/t 成像/vn 效果/n 一般/a ，/w 防/v 抖/v 功能/n 太/d 差/a ,/w 一/m 點/
